@@ -1,0 +1,41 @@
+.formContainer{
+  width: 700px;
+  height:auto;
+  padding-top: 50px;
+  display: flex;
+  flex-wrap:nowrap
+
+}
+
+.form {
+  margin: 20px;
+}
+
+.form input {
+  display: block;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  width: 100%;
+}
+h3 {
+  font-size: 32px;
+  padding-left: 100px;
+  font-weight: bold;
+  color:aliceblue
+
+}
+label{
+  color: white;
+  font-weight:'bold'
+}
+
+button{
+  color:white;
+  background-color:blue;
+  border-radius: 30%;
+  border: 1px solid blue;
+
+}
+.error-text{
+  color:white
+}
